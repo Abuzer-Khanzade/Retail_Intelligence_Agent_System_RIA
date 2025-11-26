@@ -322,3 +322,13 @@ RIA transforms raw retail data into:
 - Strategic recommendations
 
 This project demonstrates how AI agents will shape the future of automated retail decision-making.
+
+---
+
+## 👨‍💻 Author
+
+**Mohammed Abuzer Khanzade**  
+MSc Data Science (Distinction) – Birkbeck, University of London
+- 🌐 **LinkedIn:** https://www.linkedin.com/in/mohammed-abuzer-khanzade  
+- 📧 **Email:** mohammedabuzerk@gmail.com  
+- 📍 **Location:** London, United Kingdom  
